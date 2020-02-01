@@ -1,2 +1,3 @@
 NPM	: 1806269783
 Nama	: Nouval Ainun Nadjib
+Jurusan	: Sistem Informasi
